@@ -20,19 +20,19 @@ print ('you hour money is ',hour_money)
 g1_money = hour_money * g1_hours * 1.5
 print ('you g1 overtime money is ',g1_money)
 g2_money = hour_money * g2_hours * 2
-print ('you g1 overtime money is ',g1_money)
+print ('you g2 overtime money is ',g2_money)
 
 g3_money = hour_money * g3_hours * 3
-print ('you g1 overtime money is ',g3_money)
+print ('you g3 overtime money is ',g3_money)
 
 quality_g1_money = hour_money * quality_g1_hour * 1.5
 print ('you quality g1 money is ',quality_g1_money)
 
 quality_g2_money = hour_money * quality_g2_hour * 2
-print ('you quality g1 money is ',quality_g2_money)
+print ('you quality g2 money is ',quality_g2_money)
 
 quality_g3_money = hour_money * quality_g3_hour * 3
-print ('you quality g1 money is ',quality_g3_money)
+print ('you quality g3 money is ',quality_g3_money)
 
 sum_money =basic_money + g1_money + g2_money + g3_money + quality_g1_money + quality_g2_money + quality_g3_money
 print ('sum_money is',sum_money)
